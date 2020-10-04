@@ -94,5 +94,9 @@
     "title": "git branch -a",
     "description": "The git init command display all list of branches and also shows active branch from list."
   },
+   {
+    "title": "git pull",
+    "description": "Use this command to pull the changes to the current branch of your forked repository."
+  },
 ]
 
